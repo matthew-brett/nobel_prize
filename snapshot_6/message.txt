@@ -1,0 +1,3 @@
+Date: April 5 2012, 18.40
+Author: I. M. Awesome
+Notes: Revert to first version of script and figure
